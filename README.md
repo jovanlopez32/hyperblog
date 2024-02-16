@@ -14,6 +14,19 @@ Ok not, is a simple readme test make with markdown (.md)
 
 > Esto es una frase celebre que me gusta mucho. Tsssssssssssssssssss.
 
-##Creado por el increible Everest Home
+## Creado por el increible Everest Home
 
 Incluye ejemplos en Windows Linux y Mac
+
+
+Tambien podemos hacerlo de la siguiente manera:
+- Una manera
+- Dos maneras
+- Tres maneras
+- Cuatro maneras
+- Cinco maneras
+- Seis maneras
+- Siete maneras
+- Ocho maneras
+- Nueve maneras
+- Diez maneras
