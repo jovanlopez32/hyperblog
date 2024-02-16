@@ -13,3 +13,7 @@ Ok not, is a simple readme test make with markdown (.md)
 
 
 > Esto es una frase celebre que me gusta mucho. Tsssssssssssssssssss.
+
+##Creado por el increible Everest Home
+
+Incluye ejemplos en Windows Linux y Mac
